@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js 이므
+          Edit <code>src/App.js 이므 임희잭다 변경했다!! 마스터 안겨쳤다!
             
             asdfasdfasdf되냐되냐asdfasdfasdf되냐되냐asdfasdfasdf되냐되냐
             
