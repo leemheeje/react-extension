@@ -1,19 +1,12 @@
-
+import React from 'react';
+import ReactDOM from 'react-dom';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <p>
-          123123123123
+          123123144423123
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
